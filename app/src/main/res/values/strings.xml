@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VozDelas</string>
+    <string name="legal_info_title">Informações Legais</string>
+
+    <string name="lei_maria_penha_title">Lei Maria da Penha (Lei nº 11.340/2006)</string>
+    <string name="lei_maria_penha_content">
+        A Lei Maria da Penha (Lei nº 11.340/2006) foi criada para combater e prevenir a violência doméstica e familiar contra a mulher. Ela define o que é violência doméstica, estabelece as formas de violência (física, psicológica, sexual, patrimonial e moral) e cria mecanismos para proteger a mulher em situação de vulnerabilidade, como as medidas protetivas de urgência. A lei também prevê a criação de juizados de violência doméstica e familiar e equipes multidisciplinares para o atendimento às vítimas.
+    </string>
+
+    <string name="tipos_violencia_title">Tipos de Violência Doméstica e Familiar</string>
+    <string name="tipos_violencia_content">
+        A Lei Maria da Penha estabelece cinco formas de violência doméstica e familiar contra a mulher:\n\n
+        \u2022 **Violência Física:** Qualquer conduta que ofenda a integridade ou saúde corporal da mulher. Ex: espancamento, chutes, socos, puxões de cabelo.\n\n
+        \u2022 **Violência Psicológica:** Qualquer conduta que cause dano emocional e diminuição da autoestima ou que prejudique e perturbe o pleno desenvolvimento ou que vise degradar ou controlar suas ações, comportamentos, crenças e decisões. Ex: ameaças, humilhações, perseguição, manipulação, isolamento, calúnia.\n\n
+        \u2022 **Violência Sexual:** Qualquer conduta que a constranja a presenciar, a manter ou a participar de relação sexual não desejada, ou que a force a comercializar ou usar de qualquer forma a sua sexualidade. Ex: estupro, impedir o uso de contraceptivos, aborto forçado.\n\n
+        \u2022 **Violência Patrimonial:** Qualquer conduta que configure retenção, subtração, destruição parcial ou total de seus objetos, instrumentos de trabalho, documentos pessoais, bens, valores e direitos ou recursos econômicos, incluindo os destinados a satisfazer suas necessidades. Ex: quebrar objetos, controlar dinheiro, reter documentos.\n\n
+        \u2022 **Violência Moral:** Qualquer conduta que configure calúnia, difamação ou injúria. Ex: acusar falsamente de traição, espalhar boatos, xingamentos.
+    </string>
+
+    <string name="medidas_protetivas_title">Medidas Protetivas de Urgência</string>
+    <string name="medidas_protetivas_content">
+        São providências legais que visam garantir a segurança da mulher vítima de violência doméstica. Elas podem ser solicitadas pela própria vítima, por um advogado ou pelo Ministério Público e são concedidas rapidamente pelo juiz. As medidas mais comuns incluem o afastamento do agressor do lar, a proibição de contato ou aproximação do agressor, e a restrição ou suspensão de visitas a dependentes menores. O descumprimento de uma medida protetiva pode resultar na prisão do agressor.
+    </string>
+
+    <string name="onde_buscar_ajuda_title">Onde Buscar Ajuda (Canais de Denúncia)</string>
+    <string name="onde_buscar_ajuda_content">
+        Em caso de violência, é fundamental buscar ajuda. Existem diversos canais de denúncia e apoio:\n\n
+        \u2022 **Disque 180 (Central de Atendimento à Mulher):** Serviço gratuito e confidencial que oferece acolhimento, orientação e encaminhamento para serviços especializados. Funciona 24 horas por dia, todos os dias da semana.\n\n
+        \u2022 **Polícia Militar (190):** Em situações de emergência e risco iminente à vida, ligue para a Polícia Militar. A Patrulha Maria da Penha atende em várias cidades.\n\n
+        \u2022 **Delegacias da Mulher (DDM):** Delegacias especializadas no atendimento a mulheres vítimas de violência, com profissionais capacitados. Procure a DDM mais próxima de você.\n\n
+        \u2022 **Ministério Público:** Atua na fiscalização da aplicação da lei e na defesa dos direitos das mulheres.\n\n
+        \u2022 **Defensoria Pública:** Oferece assistência jurídica gratuita para mulheres que não podem pagar por um advogado.\n\n
+        \u2022 **Centros de Referência de Atendimento à Mulher (CRAM):** Oferecem atendimento psicossocial, orientação jurídica e apoio às mulheres em situação de violência.
+    </string>
+
+    <string name="mitos_verdades_title">Mitos e Verdades sobre a Lei Maria da Penha</string>
+    <string name="mitos_verdades_content">
+        \u2022 **Mito:** A Lei Maria da Penha serve para prender homens. **Verdade:** A lei busca proteger a mulher da violência, e a prisão é uma consequência do descumprimento das medidas protetivas ou da prática de crimes previstos na lei.\n\n
+        \u2022 **Mito:** Só é violência se tiver agressão física. **Verdade:** A lei reconhece cinco tipos de violência: física, psicológica, sexual, patrimonial e moral.\n\n
+        \u2022 **Mito:** Mulher que pede medida protetiva e volta para o agressor perde o direito à proteção. **Verdade:** A mulher pode voltar e pedir proteção novamente quantas vezes forem necessárias. O ciclo da violência é complexo e a lei compreende isso.\n\n
+        \u2022 **Mito:** Homem não pode ser vítima de violência doméstica. **Verdade:** A Lei Maria da Penha foi criada para proteger a mulher da violência de gênero. Homens que sofrem violência podem procurar a polícia e outros canais de denúncia, mas não sob a Lei Maria da Penha.
+    </string>
+
+</resources>

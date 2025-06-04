@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:layout_marginBottom="8dp"
+    android:background="@drawable/rounded_corner_background"> <TextView
+    android:id="@+id/tv_report_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textStyle="italic"
+    android:textSize="16sp"
+    android:textColor="@android:color/black"
+    tools:text="Esta é uma denúncia anônima de exemplo. Lorem ipsum dolor sit amet, consectetur adipiscing elit."/>
+
+    <TextView
+        android:id="@+id/tv_report_timestamp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="@android:color/darker_gray"
+        android:gravity="end"
+        android:layout_marginTop="4dp"
+        tools:text="29/05/2025 20:30"/>
+
+</LinearLayout>

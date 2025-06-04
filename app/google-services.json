@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878203506842",
+    "project_id": "vozdelass",
+    "storage_bucket": "vozdelass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878203506842:android:e2a9f15057b4038b078f23",
+        "android_client_info": {
+          "package_name": "com.example.vozdelas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9xGvWysuYPenbTdWcocnURAikMyjE0is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
