@@ -1,6 +1,6 @@
 # 💜 Voz Delas: Empoderamento e Segurança para Mulheres
 
-![image](https://github.com/user-attachments/assets/cdfaa206-be7c-4a92-9e8b-cec24d4e303a)
+![delas](https://github.com/user-attachments/assets/6d6f0190-c2da-4897-90d5-46f664beca5e)
 
 Um aplicativo móvel dedicado a ser uma rede de apoio e empoderamento para mulheres, oferecendo recursos de segurança, informações e conexão com uma comunidade solidária.
 
