@@ -27,25 +27,22 @@ Confira algumas das telas do "Voz Delas":
 
 | Tela de Login | Tela Principal |
 |---------------|----------------|
-| ![Tela de Login](![image](https://github.com/user-attachments/assets/47dca273-2b3e-4268-ad26-f00ff66861f4) | ![Tela Principal](![image](https://github.com/user-attachments/assets/2283f445-a87b-423b-945c-c686437ea8a4)) |
+| ![Tela de Login](https://github.com/user-attachments/assets/47dca273-2b3e-4268-ad26-f00ff66861f4) | ![Tela Principal](https://github.com/user-attachments/assets/2283f445-a87b-423b-945c-c686437ea8a4) |
 
 | Contatos de Emergência | Relato Anônimo |
-|-----------------------|----------------|
-| ![Contatos de Emergência](![image](https://github.com/user-attachments/assets/8536bc2c-9b81-4adf-be10-e19461c8b99a)
-) | ![Relato Anônimo](![image](https://github.com/user-attachments/assets/3980f938-79d8-44d9-aaf1-49a0c36c2b9c)
-) |
+|------------------------|----------------|
+| ![Contatos de Emergência](https://github.com/user-attachments/assets/8536bc2c-9b81-4adf-be10-e19461c8b99a) | ![Relato Anônimo](https://github.com/user-attachments/assets/3980f938-79d8-44d9-aaf1-49a0c36c2b9c) |
 
 | Rede de Apoio | Conteúdo Educacional (Lista) |
-|---------------|-----------------------------|
-| ![Rede de Apoio](![image](https://github.com/user-attachments/assets/5d7c780a-7ce3-4202-a06a-31b57904eed6)
-) | ![Conteúdo Educacional Lista](![image](https://github.com/user-attachments/assets/5fb91661-d752-4c46-899e-13d9337ccd5b)
-) |
+|---------------|------------------------------|
+| ![Rede de Apoio](https://github.com/user-attachments/assets/5d7c780a-7ce3-4202-a06a-31b57904eed6) | ![Conteúdo Educacional Lista](https://github.com/user-attachments/assets/5fb91661-d752-4c46-899e-13d9337ccd5b) |
 
 | Detalhe do Conteúdo Educacional | Oportunidades de Empoderamento |
 |---------------------------------|--------------------------------|
-| ![Detalhe do Conteúdo](![image](https://github.com/user-attachments/assets/e38914a1-29ba-427d-bc6e-48e7db464225)
+| ![Detalhe do Conteúdo](https://github.com/user-attachments/assets/e38914a1-29ba-427d-bc6e-48e7db464225) | _Imagem não informada_ |
 
 </details>
+
 
 ## 🛠️ Tecnologias Utilizadas
 
