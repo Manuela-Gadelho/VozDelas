@@ -96,7 +96,7 @@ Este projeto está licenciado sob a Licença MIT.
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-* **Manuela Gadelho:** (https://www.linkedin.com/in/manuela-moreira-gadelho/)
+* **Manuela Gadelho:** https://www.linkedin.com/in/manuela-moreira-gadelho/
 * **Email:** manugadelho@protonmail.com
 
 ---
