@@ -1,4 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/797f3471-37be-4eb5-a287-789fef9b6f59) Voz Delas: Empoderamento e Segurança para Mulheres
+# 🩷 Voz Delas: Empoderamento e Segurança para Mulheres
 
 ![delas](https://github.com/user-attachments/assets/6d6f0190-c2da-4897-90d5-46f664beca5e)
 
